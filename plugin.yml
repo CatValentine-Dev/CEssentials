@@ -1,0 +1,52 @@
+name: CEssentials
+version: 2.0
+main: com.bernardo.cessentials.main.Main
+commands:
+  setspawn:
+    aliases: [ssn]
+    permission: cessentials.setspawn
+    permission-message: "§c[!]§f・§cSem Permissão!"
+
+  spawn:
+    aliases: [sn]
+    permission: cessentials.spawn
+    permission-message: "§c[!]§f・§cSem Permissão!"
+
+  home:
+    aliases: [hm]
+    permission: cessentials.home
+    permission-message: "§c[!]§f・§cSem Permissão!"
+
+  sethome:
+    aliases: [sh]
+    permission: cessentials.sethome
+    permission-message: "§c[!]§f・§cSem Permissão!"
+
+  voar:
+    permission: cessentials.voar
+    permission-message: "§c[!]§f・§cSem Permissão!"
+    aliases: [fly]
+
+  cpot:
+    permission: cessentials.cpot
+    permission-message: "§c[!]§f・§cSem Permissão!"
+    aliases: [pot]
+
+  tpa:
+    permission: cessentials.tpa
+
+  tpaccept:
+    permission: cessentials.tpaccept
+
+  tpcancel:
+    permission: cessentials.tpcancel
+
+  gamemode:
+    description: 'Troque o modo de jogo com esse comando'
+    usage: '/gamemode <survival|creative|adventure|spectator> [player]'
+    aliases:
+      - gm
+      - cessentials
+      - mode
+
+

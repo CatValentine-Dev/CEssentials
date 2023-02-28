@@ -1,0 +1,37 @@
+## TemuxOS Plugins ###
+
+## TemuxOS Plugins ##
+
+## Joinmsg e para colocar a mensagem de boas vindas costom ##
+joinmsg: "&a[+]&f・&eSeja Bem vindo[a]"
+
+## SetSpawn voce muda a mensagem de quando voce seta o spawn ##
+setspawn: "&a[+]&f・&aVoce setou o spawn com sucesso!"
+
+## SpawnJoin modifica a mensagem de quando voce dar /spawn ##
+spawnjoin: "&a[+]&f・&aVoce chegou ao seu destino!"
+
+## Aqui Voce modifica a Primeira linha da Motd##
+motdlinha1: "&a&lCEssentials Modifique isso!"
+
+## Aqui Voce modifica a Segunda linha da Motd##
+motdlinha2: "&b&lCEssentials By TemuxOS"
+
+## Aqui Voce modifica a  mensagem de quando empilha uma porçao ##
+porcao_empilhada_msg: "&a[+]&f・&2Pocoes empilhadas com sucesso!"
+
+## Aqui voce Modifica a mensagem de quando voce nao tem porçao para empilhar ##
+sem_porcao_inv_msg: "&c[!]&f・&cNenhuma pocao para empilhar!"
+
+## Aqui voce muda a mensagem de quando alguem recebe gamemode ##
+gm_msg: "&a[+]&f・&eModo de Jogo foi alterado para"
+
+## Aqui voce muda a mensagem de quando alguem de /sethome ##
+sethomemsg: "&a[+]&f・&eCasa setada com sucesso!"
+
+## Aqui voce muda a mensagem de quando alguem de /home ##
+homemsg: "&a[+]&f・&eVoce se teletransportou para sua casa!"
+
+## Aqui voce determinar o valor maximo de homes para os usuarios ##
+maximodehomes: "3"
+
